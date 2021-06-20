@@ -23,7 +23,7 @@
     "cors": "^2.7.1",
     "crypto": "0.0.3",
     "csv": "^0.3.7",
-    "debug": "^0.7.4",
+    "debug": "^2.6.9",
     "dns": "latest",
     "express": "~4.2.0",
     "express-session": "^1.11.3",
